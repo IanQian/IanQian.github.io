@@ -1,17 +1,17 @@
 # Site settings
-title: A blog about Ian Qian
-description: A blog about Ian Qian
+title: A blog about Shenglan Qian
+description: A blog about Shenglan Qian
 # baseurl: "/particle" # the subpath of your site, e.g. /blog
 # url: "localhost:3000" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
 # User settings
-username: Ian Qian
+username: Shenglan Qian
 user_description: Bicycle rights irony actually neutra typewriter lyft. Man bun taxidermy put a bird on it, umami yr ramps pop-up ugh bushwick chia lo-fi. Occupy bitters pour-over snackwave you probably haven't heard of them small batch. Cornhole mustache man bun letterpress echo park VHS.
 user_title: Software Developer
 email: Shenglaq@usc.edu
 twitter_username: 7Shenglan
 github_username:  IanQian
-gplus_username:  lorem_ipsum
+gplus_username:  shenglaq
 
 # Google-analytics
 google-analytics:
